@@ -7,7 +7,7 @@ causing unnessecary deviation of the wrist.
 
 Ultimately I discovered alpha thumb layouts are suboptimal for ergonomic and other biomechanical reasons,
 and that the thumb key is much better suited as something more useful like one shot modifier, backspace, enter. This is
-from the perspective of a programmer, in which the weighted calculation of benefit of symbol access is  more important than a few more wpm.
+from the perspective of a programmer, in which the weighted calculation benefit of optimal symbol access is more important than a few more wpm.
 
 I am confident the best utilization of non-space thumb key is as OSM and can stay active if held -> then mapping backspace itself to a homerow key.
 This makes thing like hitting backspace n times, as often required, to clear several characters is much nicer, in addition to nav-layer type combos.
