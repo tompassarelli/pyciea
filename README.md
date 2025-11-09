@@ -4,7 +4,7 @@ as of late 2025 I am using my own "wide mod" variant of QWERTY shifting the righ
 benefit of this alone feels like it solves my biggest ergonomic contention of keyboards/QWERTY. Turns out keyboards are 
 broken by design for the vast majority of people that are not splittable or doing a mod like this.
 
-Ultimately I decided alpha thumb layouts are suboptimal for ergonomic and other biomechanical reasons,
+Ultimately I discovered alpha thumb layouts are suboptimal for ergonomic and other biomechanical reasons,
 and that the thumb key is much better suited as something more useful like one shot modifier, backspace, enter, etc.
 
 I am confident the best utilization of non-space thumb key is as OSM and can stay active if held -> then mapping backspace itself to a homerow key.
