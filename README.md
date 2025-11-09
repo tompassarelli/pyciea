@@ -5,7 +5,8 @@ benefit of this alone feels like it solves my biggest ergonomic contention of ke
 broken by design for the vast majority of people that are not splittable or doing a mod like this.
 
 Ultimately I discovered alpha thumb layouts are suboptimal for ergonomic and other biomechanical reasons,
-and that the thumb key is much better suited as something more useful like one shot modifier, backspace, enter, etc.
+and that the thumb key is much better suited as something more useful like one shot modifier, backspace, enter. This is
+from the perspective of a programmer, its indubitably a bad decision to use alpha on press of the thumb.
 
 I am confident the best utilization of non-space thumb key is as OSM and can stay active if held -> then mapping backspace itself to a homerow key.
 This makes thing like hitting backspace n times, as often required, to clear several characters is much nicer, in addition to nav-layer type combos.
