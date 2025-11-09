@@ -1,6 +1,6 @@
 An archive of alternative keyboard research in 2025 in which I studied leading layouts and built my own.
 
-as of late 2025 I am using a "wide mod" variant of QWERTY shifting the right hand over by 1 letter. The ergonomic 
+as of late 2025 I am using my own "wide mod" variant of QWERTY shifting the right hand over by 1 letter. The ergonomic 
 benefit of this alone feels like it solves my biggest ergonomic contention of keyboards/QWERTY. All keyboards are fundamentally 
 broken by design that are not splittable or doing a mod like this, maybe some people are fine with extremely narrow shoulders.
 
