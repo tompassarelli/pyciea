@@ -11,5 +11,4 @@ from the perspective of a programmer, its indubitably a bad decision to use alph
 I am confident the best utilization of non-space thumb key is as OSM and can stay active if held -> then mapping backspace itself to a homerow key.
 This makes thing like hitting backspace n times, as often required, to clear several characters is much nicer, in addition to nav-layer type combos.
 
-I concluded that something like a graphite/gallium are the best overall layouts as of 2025, but I still think
-my specific variant of these layouts is optimal for split keyboards specifically.
+I concluded that something like a graphite/gallium are the best overall layouts as of 2025. I noted a specific variant of these layouts is optimal for split keyboards specifically, but I would submit that the base design of these layouts is still best for row staggered keyboards.
